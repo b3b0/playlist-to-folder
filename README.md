@@ -2,4 +2,4 @@
 
 > It looks works with .xspf playlists.
 
-`.\psf.ps1 "myPlaylist.xspf"`
+`.\p2f.ps1 "myPlaylist.xspf"`
